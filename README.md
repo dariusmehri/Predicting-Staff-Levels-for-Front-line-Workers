@@ -36,7 +36,7 @@ Correlation between average wait time and percent hours of leave per group:
 
 ![correlation analysis results](https://cloud.githubusercontent.com/assets/11237613/22994030/3a61a798-f393-11e6-8506-4b54e89161bf.PNG)
 
-####Regression Analysis:
+####Regression Analysis
 
 Regression analysis is used to predict the average wait time with increased leave time.
 
@@ -45,6 +45,11 @@ More specifically, when leave increases we want to know the increase in the numb
 The dependent variable in our analysis is the average wait time and the independent variable is percent hours of leave for each work group.
 
 We focus on application processing only (low correlation for records and certificate of occupancy)
+
+Regression results shows that percent leave must be kept to 10% for each work group to maintain an average wait time of 1/2 hour:
+
+
+
 
 
 
