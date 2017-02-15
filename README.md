@@ -48,7 +48,7 @@ We focus on application processing only (low correlation for records and certifi
 
 Regression results shows that percent leave must be kept to 10% for each work group to maintain an average wait time of 1/2 hour:
 
-
+![application processing](https://cloud.githubusercontent.com/assets/11237613/22994234/2fb06e64-f394-11e6-96f2-9a2c077b73dc.png)
 
 
 
