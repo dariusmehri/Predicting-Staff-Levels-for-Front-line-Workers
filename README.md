@@ -13,16 +13,21 @@ Average wait and total leave steadily increases throughout the year and peaks in
 ###Data and Methods
 
 Data:
-10 months of average wait time from QMATIC.
 
-Leave time for each worker from City Time.
+1. 10 months of average wait time from QMATIC.
 
-Data aggregated to the unit level (work group).
+2. Leave time for each worker from City Time.
 
-Each group categorized according to job function.
+3. Data aggregated to the unit level (work group).
+
+4. Each group categorized according to job function.
+
 
 Methods:
 
 Correlation analysis, linear regression
+
+###Software
+R, Python, Teableau
 
 
