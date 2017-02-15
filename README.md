@@ -32,4 +32,6 @@ R, Python, Teableau
 
 ###Results
 
+Correlation between average wait time and percent hours of leave per group:
 
+![correlation analysis results](https://cloud.githubusercontent.com/assets/11237613/22994030/3a61a798-f393-11e6-8506-4b54e89161bf.PNG)
