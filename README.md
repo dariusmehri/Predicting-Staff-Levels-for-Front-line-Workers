@@ -20,7 +20,7 @@ Data:
 
 3. Data aggregated to the unit level (work group).
 
-4. Each group categorized according to job function.
+4. Each group categorized according to job function - Application processing, certificate of occupancy, records.
 
 
 Methods:
@@ -29,5 +29,7 @@ Correlation analysis, linear regression
 
 ###Software
 R, Python, Teableau
+
+###Results
 
 
