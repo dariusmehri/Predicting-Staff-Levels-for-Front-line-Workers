@@ -46,7 +46,7 @@ The dependent variable in our analysis is the average wait time and the independ
 
 We focus on application processing only (low correlation for records and certificate of occupancy)
 
-Regression results shows that percent leave must be kept to 10% for each work group to maintain an average wait time of 1/2 hour:
+Regression results shows that percent leave must be kept to 2.5 hours a week for an average wait time of 30 minutes:
 
 ![application processing](https://cloud.githubusercontent.com/assets/11237613/22994234/2fb06e64-f394-11e6-96f2-9a2c077b73dc.png)
 
