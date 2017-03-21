@@ -51,7 +51,6 @@ Regression results shows that percent leave must be kept to 10% for each work gr
 ![application processing](https://cloud.githubusercontent.com/assets/11237613/22994234/2fb06e64-f394-11e6-96f2-9a2c077b73dc.png)
 
 
-For further discussion, see powerpoint file.
 
 
 
