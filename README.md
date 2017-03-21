@@ -48,7 +48,7 @@ We focus on application processing only (low correlation for records and certifi
 
 Regression results shows that percent leave must be kept to 2.5 hours a week for an average wait time of 30 minutes:
 
-![application processing](https://cloud.githubusercontent.com/assets/11237613/22994234/2fb06e64-f394-11e6-96f2-9a2c077b73dc.png)
+![application processing](https://cloud.githubusercontent.com/assets/11237613/24154894/c689f6b2-0e28-11e7-9592-19333ca157b0.png)
 
 
 
