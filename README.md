@@ -15,7 +15,7 @@ Average wait and total leave steadily increases throughout the year and peaks in
 
 Data:
 
-1. 10 months of average wait time from QMATIC.
+1. 52 weeks of average wait time from QMATIC.
 
 2. Leave time for each worker from City Time.
 
