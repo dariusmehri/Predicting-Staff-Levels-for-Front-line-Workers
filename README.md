@@ -8,7 +8,8 @@ Predict the increase in staffing during busy months (i.e. summer) required to ma
 
 Average wait and total leave steadily increases throughout the year and peaks in June and July:
 
-![average wait time and total leave per month](https://cloud.githubusercontent.com/assets/11237613/22993750/24c2030c-f392-11e6-810e-9d9dbcad259f.png)
+![average wait time and total leave per month](https://cloud.githubusercontent.com/assets/11237613/24155351/feaa25ca-0e29-11e7-875f-8d751719a84b.png)
+
 
 ### Data and Methods
 
